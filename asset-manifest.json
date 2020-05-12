@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tshirt-memes-design/static/css/main.01bac769.chunk.css",
-    "main.js": "/tshirt-memes-design/static/js/main.8b740df0.chunk.js",
-    "main.js.map": "/tshirt-memes-design/static/js/main.8b740df0.chunk.js.map",
-    "runtime-main.js": "/tshirt-memes-design/static/js/runtime-main.2a140a89.js",
-    "runtime-main.js.map": "/tshirt-memes-design/static/js/runtime-main.2a140a89.js.map",
-    "static/js/2.73de4338.chunk.js": "/tshirt-memes-design/static/js/2.73de4338.chunk.js",
-    "static/js/2.73de4338.chunk.js.map": "/tshirt-memes-design/static/js/2.73de4338.chunk.js.map",
-    "index.html": "/tshirt-memes-design/index.html",
-    "precache-manifest.23152a779dcad62f1e5cbb35bd67a160.js": "/tshirt-memes-design/precache-manifest.23152a779dcad62f1e5cbb35bd67a160.js",
-    "service-worker.js": "/tshirt-memes-design/service-worker.js",
-    "static/css/main.01bac769.chunk.css.map": "/tshirt-memes-design/static/css/main.01bac769.chunk.css.map",
-    "static/js/2.73de4338.chunk.js.LICENSE.txt": "/tshirt-memes-design/static/js/2.73de4338.chunk.js.LICENSE.txt"
+    "main.css": "/Tshirt-memes-design-app/static/css/main.01bac769.chunk.css",
+    "main.js": "/Tshirt-memes-design-app/static/js/main.f9a05aed.chunk.js",
+    "main.js.map": "/Tshirt-memes-design-app/static/js/main.f9a05aed.chunk.js.map",
+    "runtime-main.js": "/Tshirt-memes-design-app/static/js/runtime-main.ae764aa4.js",
+    "runtime-main.js.map": "/Tshirt-memes-design-app/static/js/runtime-main.ae764aa4.js.map",
+    "static/js/2.73de4338.chunk.js": "/Tshirt-memes-design-app/static/js/2.73de4338.chunk.js",
+    "static/js/2.73de4338.chunk.js.map": "/Tshirt-memes-design-app/static/js/2.73de4338.chunk.js.map",
+    "index.html": "/Tshirt-memes-design-app/index.html",
+    "precache-manifest.889bda27e03fcf57564998f3ba196152.js": "/Tshirt-memes-design-app/precache-manifest.889bda27e03fcf57564998f3ba196152.js",
+    "service-worker.js": "/Tshirt-memes-design-app/service-worker.js",
+    "static/css/main.01bac769.chunk.css.map": "/Tshirt-memes-design-app/static/css/main.01bac769.chunk.css.map",
+    "static/js/2.73de4338.chunk.js.LICENSE.txt": "/Tshirt-memes-design-app/static/js/2.73de4338.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2a140a89.js",
+    "static/js/runtime-main.ae764aa4.js",
     "static/js/2.73de4338.chunk.js",
     "static/css/main.01bac769.chunk.css",
-    "static/js/main.8b740df0.chunk.js"
+    "static/js/main.f9a05aed.chunk.js"
   ]
 }
